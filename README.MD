@@ -8,7 +8,7 @@ Este projeto fornece um ambiente interativo para treinar comandos básicos do Li
 
 ## 📁 Estrutura do projeto
 
-├── setup/
+├── setup/  
 │ └── setup.sh # Script que gera o ambiente de treino
 └── linux-training/ # Diretório criado, onde você pratica os comandos
 
