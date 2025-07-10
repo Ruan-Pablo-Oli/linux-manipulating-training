@@ -41,5 +41,17 @@ Comandos fundamentais do Linux:
 | `cd`           | Mudar diretório      |
 | `pwd`          | Mostrar diretório atual |
 | `rm`          | Deletar diretórios e arquivos |
-
+| `cat`      | Exibe o conteúdo de arquivos                         |
+| `less`     | Visualiza arquivos paginando a saída                 |
+| `head`     | Mostra as primeiras linhas de um arquivo             |
+| `tail`     | Mostra as últimas linhas de um arquivo               |
+| `echo`     | Imprime texto ou variáveis no terminal                |
+| `cp`       | Copia arquivos ou diretórios                           |
+| `mv`       | Move ou renomeia arquivos ou diretórios               |
+| `find`     | Busca arquivos e diretórios com critérios variados    |
+| `grep`     | Procura por texto/padrões dentro de arquivos          |
+| `chmod`    | Altera permissões de arquivos e diretórios            |
+| `tar`      | Arquiva e compacta arquivos e diretórios               |
+| `ln -s`    | Cria links simbólicos (atalhos) para arquivos         |
+| `fallocate`| Cria arquivos de tamanho fixo rapidamente              |
 
