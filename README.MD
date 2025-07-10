@@ -31,7 +31,7 @@ Este projeto fornece um ambiente interativo para treinar comandos básicos do Li
 	bash ./setup.sh
    ```
 
-📚 O que você vai treinar
+## 📚 O que você vai treinar
 
 Comandos fundamentais do Linux:
 
