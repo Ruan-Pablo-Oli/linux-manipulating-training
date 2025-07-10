@@ -22,8 +22,8 @@ Este projeto fornece um ambiente interativo para treinar comandos básicos do Li
 1. Clone o repositório:
 
    ```bash
-   	git clone https://github.com/seu-usuario/linux-manipulation-training.git
-	cd linux-manipulation-training/setup
+        git clone https://github.com/seu-usuario/linux-manipulation-training.git
+        cd linux-manipulation-training/setup
    ```
 2. Torne os script executável e o execute usando o bash
    ```bash
@@ -35,11 +35,11 @@ Este projeto fornece um ambiente interativo para treinar comandos básicos do Li
 
 Comandos fundamentais do Linux:
 
-    * ls, cd, pwd, mkdir, rm
+ | Comandos       | Descrição            |
+|----------------|----------------------|
+| `ls`           | Listar arquivos      |
+| `cd`           | Mudar diretório      |
+| `pwd`          | Mostrar diretório atual |
+| `rm`          | Deletar diretórios e arquivos |
 
-    * cat, less, head, tail, echo
-
-    * cp, mv, find, grep, chmod
-
-    * tar, ln -s, fallocate
 
