@@ -2,56 +2,55 @@
 
 # 🐧 Linux Manipulation Training
 
-Este projeto fornece um ambiente interativo para treinar comandos básicos do Linux de forma prática e divertida, com uma missão estilo CTF (Capture The Flag). Ao final, você encontrará um “tesouro” escondido no sistema de arquivos.
-
+This project provides an interactive environment for practicing basic Linux commands in a practical and fun way, with a CTF (Capture the Flag)-style mission. At the end, you'll find a "treasure" hidden in the file system.
 ---
 
-## 📁 Estrutura do projeto
+## 📁 Project structure
 
 ├── setup/  
-│ └── setup.sh # Script que gera o ambiente de treino
+│ └── setup.sh # Script that generates the training environment
 <br>
-└── linux-training/ # Diretório criado, onde você pratica os comandos
+└── linux-training/ # Directory created, where you practice the commands
 
--> A estruta já vem montada, mas caso queria resetar tudo para o estado inicial basta rodar o script setup.sh novamente!!!
+-> The structure is already assembled, but if you want to reset everything to the initial state, just run the setup.sh script again!!!
 
 ---
 
-## 🚀 Como começar
+## 🚀 How start
 
-1. Clone o repositório:
+1. Clone the repository:
 
    ```bash
         git clone https://github.com/seu-usuario/linux-manipulation-training.git
         cd linux-manipulation-training/setup
    ```
-2. Torne os script executável e o execute usando o bash
-   ```bash
+2. Make the script executable and run it using bash   ```bash
 	chmod +x setup.sh
 	bash ./setup.sh
    ```
 
-## 📚 O que você vai treinar
+## 📚 What will you train
 
-Comandos fundamentais do Linux:
+Fundamental Linux Commands:
 
- | Comandos       | Descrição            |
-|----------------|----------------------|
-| `ls`           | Listar arquivos      |
-| `cd`           | Mudar diretório      |
-| `pwd`          | Mostrar diretório atual |
-| `rm`          | Deletar diretórios e arquivos |
-| `cat`      | Exibe o conteúdo de arquivos                         |
-| `less`     | Visualiza arquivos paginando a saída                 |
-| `head`     | Mostra as primeiras linhas de um arquivo             |
-| `tail`     | Mostra as últimas linhas de um arquivo               |
-| `echo`     | Imprime texto ou variáveis no terminal                |
-| `cp`       | Copia arquivos ou diretórios                           |
-| `mv`       | Move ou renomeia arquivos ou diretórios               |
-| `find`     | Busca arquivos e diretórios com critérios variados    |
-| `grep`     | Procura por texto/padrões dentro de arquivos          |
-| `chmod`    | Altera permissões de arquivos e diretórios            |
-| `tar`      | Arquiva e compacta arquivos e diretórios               |
-| `ln -s`    | Cria links simbólicos (atalhos) para arquivos         |
-| `fallocate`| Cria arquivos de tamanho fixo rapidamente              |
+| Command    | Brief Description                                  |
+|------------|---------------------------------------------------|
+| `ls`       | List files and directories                         |
+| `cd`       | Change directory                                  |
+| `pwd`      | Show current directory                            |
+| `rm`       | Remove files and directories                      |
+| `cat`      | Display the contents of files                     |
+| `less`     | View files with pagination                        |
+| `head`     | Show the first lines of a file                    |
+| `tail`     | Show the last lines of a file                     |
+| `echo`     | Print text or variables to the terminal           |
+| `cp`       | Copy files or directories                         |
+| `mv`       | Move or rename files or directories               |
+| `find`     | Search for files and directories with criteria    |
+| `grep`     | Search text/patterns inside files                  |
+| `chmod`    | Change permissions of files and directories        |
+| `tar`      | Archive and compress files and directories         |
+| `ln -s`    | Create symbolic links (shortcuts) to files         |
+| `fallocate`| Quickly create files of fixed size                  |
+
 
