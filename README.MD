@@ -27,8 +27,8 @@ This project provides an interactive environment for practicing basic Linux comm
         git clone https://github.com/seu-usuario/linux-manipulation-training.git
         cd linux-manipulation-training/setup
    ```
-2. Make the script executable and run it using bash   `
-   ``bash
+2. Make the script executable and run it using bash   
+   ```bash
 	chmod +x setup.sh
 	bash ./setup.sh
    ```
