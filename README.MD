@@ -2,8 +2,11 @@
 
 # 🐧 Linux Manipulation Training
 
+
+
 This project provides an interactive environment for practicing basic Linux commands in a practical and fun way, with a CTF (Capture the Flag)-style mission. At the end, you'll find a "treasure" hidden in the file system.
----
+
+------
 
 ## 📁 Project structure
 
