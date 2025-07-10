@@ -10,6 +10,7 @@ Este projeto fornece um ambiente interativo para treinar comandos básicos do Li
 
 ├── setup/  
 │ └── setup.sh # Script que gera o ambiente de treino
+<br>
 └── linux-training/ # Diretório criado, onde você pratica os comandos
 
 -> A estruta já vem montada, mas caso queria resetar tudo para o estado inicial basta rodar o script setup.sh novamente!!!
