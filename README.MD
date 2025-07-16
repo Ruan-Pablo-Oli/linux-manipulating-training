@@ -10,40 +10,40 @@ This project provides an interactive environment for practicing basic Linux comm
 
 ## 📁 Project structure
 
-linux-training/
-├── .hidden/
-│   └── secret.txt
-├── archive/
-│   ├── bigfile1.bin
-│   ├── bigfile2.bin
-│   └── compressed/
-│       ├── arquivos.tar.gz
-│       └── arquivos.zip
-├── bin/
-├── complex names/
-│   └── arquivo com espaço.txt
-├── documents/
-│   ├── letters/
-│   │   └── letter1.txt
-│   ├── manuals/
-│   │   └── readme.md
-│   └── reports/
-│       └── report1.txt
-├── downloads/
-│   ├── exemplo1.log
-│   ├── exemplo2.log
-│   └── exemplo3.log
-├── images/
-│   ├── personal/
-│   │   └── photo1.jpg
-│   └── wallpapers/
-│       └── wall1.jpg
-├── quest/
-│   └── level1/
-│       ├── .hint.txt
-│       └── level2.sh*
-├── scripts/
-│   └── backup.sh*
+linux-training/  
+├── .hidden/ 
+│   └── secret.txt 
+├── archive/ 
+│   ├── bigfile1.bin 
+│   ├── bigfile2.bin 
+│   └── compressed/ 
+│       ├── arquivos.tar.gz 
+│       └── arquivos.zip 
+├── bin/ 
+├── complex names/ 
+│   └── arquivo com espaço.txt 
+├── documents/ 
+│   ├── letters/ 
+│   │   └── letter1.txt 
+│   ├── manuals/ 
+│   │   └── readme.md 
+│   └── reports/ 
+│       └── report1.txt 
+├── downloads/ 
+│   ├── exemplo1.log 
+│   ├── exemplo2.log 
+│   └── exemplo3.log 
+├── images/ 
+│   ├── personal/ 
+│   │   └── photo1.jpg 
+│   └── wallpapers/ 
+│       └── wall1.jpg 
+├── quest/ 
+│   └── level1/ 
+│       ├── .hint.txt 
+│       └── level2.sh* 
+├── scripts/ 
+│   └── backup.sh* 
 
 
 -> The structure is already assembled, but if you want to reset everything to the initial state, just run the setup.sh script again!!!
