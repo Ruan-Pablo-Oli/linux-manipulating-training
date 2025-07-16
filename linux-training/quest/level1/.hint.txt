@@ -1,1 +1,1 @@
-Parabéns! Você achou a primeira dica! Vá para level2.
+Parabéns! Você achou a primeira dica! Para continuar, execute o script level2.sh.
